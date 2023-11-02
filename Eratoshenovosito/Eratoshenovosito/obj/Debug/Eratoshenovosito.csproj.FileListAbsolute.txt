@@ -1,0 +1,10 @@
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\bin\Debug\Eratoshenovosito.exe.config
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\bin\Debug\Eratoshenovosito.exe
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\bin\Debug\Eratoshenovosito.pdb
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.csproj.AssemblyReference.cache
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.Form1.resources
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.Properties.Resources.resources
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.csproj.GenerateResource.cache
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.csproj.CoreCompileInputs.cache
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.exe
+D:\school\prg\Eratoshenovosito\Eratoshenovosito\obj\Debug\Eratoshenovosito.pdb
